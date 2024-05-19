@@ -1,5 +1,6 @@
 git clone https://github.com/WolfEYc/wolfey-dotfiles.git
 cd wolfey-dotfiles
-bash ./install.sh
+sudo apt-get install fish
+fish ./install.sh
 cd ..
 rm -rf wolfey-dotfiles
