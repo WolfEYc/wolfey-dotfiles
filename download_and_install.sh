@@ -1,5 +1,5 @@
 git clone https://github.com/WolfEYc/wolfey-dotfiles.git
 cd wolfey-dotfiles
-./install.sh
+bash install.sh
 cd ..
-rm -r wolfey-dotfiles
+rm -rf wolfey-dotfiles
